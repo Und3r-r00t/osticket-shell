@@ -16,7 +16,7 @@ echo -e $Y"[*] Attachments on the filesystem"${END}
 echo -e $Y"[*]${END} https://docs.osticket.com/en/latest/Plugins/Attachments on the Filesystem.html"${END}
 sleep 2
 echo -e
-echo -n "Enter url: "
+echo -n "Target: "
 read url
 echo -n "Url key: "
 read key
