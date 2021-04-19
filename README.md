@@ -1,6 +1,6 @@
 # osticket-shell
 
-## osticket file upload to reverse shell
+## osticket upload file to reverse shell
 
 * After uploading file
 	* `http://target/file.php?key=t4hjgruq3xmgvta0gr8vm9nf5hjyykfui&expires=111111400&signature=f03c2714xxd8f914xxh6de56bd96xx147646683&id=17`
