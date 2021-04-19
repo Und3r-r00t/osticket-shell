@@ -1,4 +1,4 @@
-# osticket-shell
+# osticket upload shell
 
 ## osticket upload file to reverse shell
 
